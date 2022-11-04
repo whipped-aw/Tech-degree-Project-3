@@ -1,2 +1,1 @@
-# Tech degree Project 3 
- my 3rd project
+# Team Treehouse Tech Degree Project 3
